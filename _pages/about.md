@@ -19,10 +19,17 @@ social: true # includes social icons at the bottom of the page
 ---
 Contact: huyen.lm@vinuni.edu.vn
 
-Hi! I am a first-year Ph.D. student in Computer Science at [VinUniversity](https://vinuni.edu.vn) and research assistant at [VinUni - Illinois Smart Health Center](https://smarthealth.vinuni.edu.vn), supervised by [Dr Hieu Pham](https://huyhieupham.github.io).
+Hi! I am a first-year Ph.D. student in Computer Science at [VinUniversity](https://vinuni.edu.vn) and research assistant at [VinUni - Illinois Smart Health Center](https://smarthealth.vinuni.edu.vn) (VISHC), supervised by [Dr Hieu Pham](https://huyhieupham.github.io).
 
-My research focuses on AI in Biomedical Imaging. I received my double major Bachelor  in Applied Information Engineering and International Commerce at [Yonsei Universtiy](http://www.yonsei.kr/en_sc/index.jsp) in February 2023. I was a software engineering at Smallmachines, South Korea from January 2023 to February 2024.
+My research focuses on AI in Biomedical Imaging. I received my double-major Bachelor degree in Applied Information Engineering and International Commerce at [Yonsei University](http://www.yonsei.kr/en_sc/index.jsp) in February 2023. I was a software engineering at Smallmachines, South Korea from January 2023 to February 2024.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+
+<p align="center">
+    <!-- <a href="data/Hieu_Pham_CV_2024.pdf">CV</a> &nbsp;/&nbsp;
+    <a href="https://scholar.google.com/citations?user=mXcFcNkAAAAJ&hl=en">Google Scholar</a> &nbsp;/&nbsp; --> -->
+    <a href="https://github.com/minhhuyenle/">GitHub</a> &nbsp;/&nbsp;
+    <a href="https://www.linkedin.com/in/minhhuyenle/">LinkedIn</a>
+</p>
