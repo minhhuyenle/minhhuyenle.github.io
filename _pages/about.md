@@ -29,7 +29,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <p align="center">
     <!-- <a href="data/Hieu_Pham_CV_2024.pdf">CV</a> &nbsp;/&nbsp;
-    <a href="https://scholar.google.com/citations?user=mXcFcNkAAAAJ&hl=en">Google Scholar</a> &nbsp;/&nbsp; --> -->
+    <a href="https://scholar.google.com/citations?user=mXcFcNkAAAAJ&hl=en">Google Scholar</a> &nbsp;/&nbsp; --> 
     <a href="https://github.com/minhhuyenle/">GitHub</a> &nbsp;/&nbsp;
     <a href="https://www.linkedin.com/in/minhhuyenle/">LinkedIn</a>
 </p>

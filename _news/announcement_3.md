@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
-inline: true
+date: 2024-07-08 07:59:00-0400
+inline: false
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I received admission offer for the PhD Program in Computer Science at VinUniversity with full-ride scholarship.
