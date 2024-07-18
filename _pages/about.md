@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 Contact: huyen.lm@vinuni.edu.vn
 
-Hi! I am a first-year Ph.D. student in Computer Science at [VinUniversity](https://vinuni.edu.vn) and research assistant at [VinUni - Illinois Smart Health Center](https://smarthealth.vinuni.edu.vn) (VISHC), supervised by [Dr Hieu Pham](https://huyhieupham.github.io).
+Hi! I am a first-year Ph.D. student in Computer Science at [VinUniversity](https://vinuni.edu.vn) and Research Assistant at [VinUni - Illinois Smart Health Center](https://smarthealth.vinuni.edu.vn) (VISHC), supervised by [Dr Hieu Pham](https://huyhieupham.github.io).
 
 My research focuses on AI in Biomedical Imaging. I received my double-major Bachelor degree in Applied Information Engineering and International Commerce at [Yonsei University](http://www.yonsei.kr/en_sc/index.jsp) in February 2023. I was a software engineering at Smallmachines, South Korea from January 2023 to February 2024.
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received admission offer for the PhD Program in Computer Science at VinUniversity with full-ride scholarship.
+I received admission offer for the Ph.D. Program in Computer Science at VinUniversity with full-ride scholarship.
