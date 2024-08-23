@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About
-======
 Hi! I'm Huyen, a first-year Ph.D. student in Computer Science at [VinUniversity](https://vinuni.edu.vn) and Research Assistant at [VinUni - Illinois Smart Health Center](https://smarthealth.vinuni.edu.vn) (VISHC), supervised by [Dr Hieu Pham](https://huyhieupham.github.io).
 
 My research focuses on AI in Biomedical Imaging. I received my double-major Bachelor degree in Applied Information Engineering and International Commerce at [Yonsei University](http://www.yonsei.kr/en_sc/index.jsp) in February 2023. I was a software engineering at Smallmachines, South Korea from January 2023 to February 2024.
