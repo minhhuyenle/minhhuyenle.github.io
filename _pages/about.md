@@ -15,6 +15,7 @@ Research Interest
 Applications of Artificial Intelligence (AI) in:
 <ul>
   <li>Cell-image Analysis</li>
+  <li>Time-series Data Analysis</li>
   <li>Digital and Computational Pathology</li>
 </ul>
 
