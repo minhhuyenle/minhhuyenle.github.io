@@ -27,6 +27,10 @@ News
 - **[Nov. 2023]** I attended [MEDICA 2023](https://www.medica-tradefair.com), one of the world largest medical B2B trade fairs, held in Düsseldorf, Germany.
 - **[Jan. 2023]** I joined Smallmachines, a medical device manufacturing company based in Seoul, Korea, as a Software Engineer. My work focused on developing ML models for sepsis early diagnosis and prognosis, as well as building a website and mobile app to deploy these ML models.
 
+Preprints
+------
+1. **SarcNet: A Novel AI-based Framework to Automatically Analyze and Score Sarcomere Organizations  in Fluorescently Tagged hiPSC-CMs**
+   Huyen Le, Khiet Dang, Tien Lai, Nhung Nguyen, Mai Tran, Hieu Pham; arXiv preprint arXiv:2405.17926, [pdf](https://arxiv.org/pdf/2405.17926).
 <!--
 Create content & metadata
 ------
