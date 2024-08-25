@@ -11,7 +11,7 @@ Hi! I'm Huyen, a first-year Ph.D. student in Computer Science at [VinUniversity]
 I received my double-major Bachelor degree in Applied Information Engineering and International Commerce at [Yonsei University](http://www.yonsei.kr/en_sc/index.jsp) in February 2023. I was a software engineering at Smallmachines, South Korea from January 2023 to February 2024.
 
 Research Interest
-======
+------
 Applications of artificial intelligence (AI) to:
 <ul>
   <li>Cell-image Analysis</li>
