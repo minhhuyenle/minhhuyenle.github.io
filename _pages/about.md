@@ -24,7 +24,7 @@ News
 - **[Jun. 2024]** One [paper](https://arxiv.org/abs/2405.17926) "SarcNet: A Novel AI-based Framework to Automatically Analyze and Score Sarcomere Organizations  in Fluorescently Tagged hiPSC-CMs" was selected for an invited talk at [BME10](https://bme.hcmiu.edu.vn/bme10/) Conference 2024 in Phan Thiet, Vietnam.
 - **[Feb. 2024]** I joined VinUni-Illinois Smart Health Center (VISHC) as Research Assistant under supervison of Dr. Hieu Pham. My research focus is on AI for Biomedical Imaging, in particular, quantifying sarcomere organization in fluorescently tagged human-induced Pluripotent Stem Cell-derived Cardiomyocytes (hiPSC-CMs). My work is a part of the project: Evaluate the Effectiveness of Anti-viral Drug using Polarized Light Imaging. 
 - **[Dec. 2023]** One patent: Choi Jun Kyu, You Jung Min, Le Minh Huyen, Lee Ju Hun. “Sepsis early diagnosis and prognosis prediction system and the method thereof” has been submitted to Korean Intellectual Property Office (KIPO).
-- **[Nov. 2023]** I attended MEDICA 2023, one of the world largest medical B2B trade fairs, held in Düsseldorf, Germany.
+- **[Nov. 2023]** I attended [MEDICA 2023](https://www.medica-tradefair.com), one of the world largest medical B2B trade fairs, held in Düsseldorf, Germany.
 - **[Jan. 2023]** I joined Smallmachines, a medical device manufacturing company based in Seoul, Korea, as a Software Engineer. My work focused on developing ML models for sepsis early diagnosis and prognosis, as well as building a website and mobile app to deploy these ML models.
 
 <!--
