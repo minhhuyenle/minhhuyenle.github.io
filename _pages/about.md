@@ -31,6 +31,7 @@ Preprints
 ------
 1. **SarcNet: A Novel AI-based Framework to Automatically Analyze and Score Sarcomere Organizations  in Fluorescently Tagged hiPSC-CMs**
    Huyen Le, Khiet Dang, Tien Lai, Nhung Nguyen, Mai Tran, Hieu Pham; arXiv preprint arXiv:2405.17926, [pdf](https://arxiv.org/pdf/2405.17926).
+
 <!--
 Create content & metadata
 ------
