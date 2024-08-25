@@ -12,7 +12,7 @@ I received my double-major Bachelor degree in Applied Information Engineering an
 
 Research Interest
 ------
-Applications of artificial intelligence (AI) to:
+Applications of Artificial Intelligence (AI) in:
 <ul>
   <li>Cell-image Analysis</li>
   <li>Digital and Computational Pathology</li>
