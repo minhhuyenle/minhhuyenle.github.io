@@ -14,9 +14,9 @@ Contact: huyen.lm@vinuni.edu.vn
 
 Research Interest
 ------
-Applications of Artificial Intelligence (AI) in:
+Development of AI research for:
 <ul>
-  <li>Cell-image Analysis</li>
+  <li>Cell-image Analysis (Currently focusing on [hiPSC-CMs](https://en.wikipedia.org/wiki/Human_engineered_cardiac_tissues) for drug screening)</li>
   <li>Time-series Data Analysis</li>
   <li>Digital and Computational Pathology</li>
 </ul>
