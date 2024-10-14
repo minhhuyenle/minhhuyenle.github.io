@@ -23,6 +23,7 @@ Development of AI research for:
 
 News
 ------
+- **[Oct. 2024]** One paper "D-SarcNet: A Dual-stream Deep Learning Framework for Automatic Analysis of Sarcomere Structures in Fluorescently Labeled hiPSC-CMs" is accepted as short paper at [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024/), held in Lisbon, Portugal from Dec 3-6.
 - **[Aug. 2024]** I started a Ph.D. in Computer Science at VinUni-Illinois Smart Health Center, VinUniversity, with full-ride scholarship.
 - **[Jun. 2024]** One [paper](https://arxiv.org/abs/2405.17926) "SarcNet: A Novel AI-based Framework to Automatically Analyze and Score Sarcomere Organizations  in Fluorescently Tagged hiPSC-CMs" was selected for an invited talk at [BME10](https://bme.hcmiu.edu.vn/bme10/) Conference 2024 in Phan Thiet, Vietnam.
 - **[Feb. 2024]** I joined VinUni-Illinois Smart Health Center (VISHC) as Research Assistant under supervison of Dr. Hieu Pham. My research focus is on AI for Biomedical Imaging, in particular, quantifying sarcomere organization in fluorescently tagged human-induced Pluripotent Stem Cell-derived Cardiomyocytes (hiPSC-CMs). My work is a part of the project: Evaluate the Effectiveness of Anti-viral Drug using Polarized Light Imaging. 
