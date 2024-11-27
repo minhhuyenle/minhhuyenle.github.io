@@ -17,8 +17,8 @@ Research Interest
 Development of AI research for:
 <ul>
   <li>Cell-image Analysis (Currently focusing on <a href="https://en.wikipedia.org/wiki/Human_engineered_cardiac_tissues">hiPSC-CMs</a> for drug screening)</li>
-  <li>Time-series Data Analysis</li>
-  <li>Digital and Computational Pathology</li>
+  <li>Virtual Staining</li>
+  <li>Bioinformatics</li>
 </ul>
 
 News
