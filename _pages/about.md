@@ -23,6 +23,7 @@ Development of AI research for:
 
 News
 ------
+- **[Jan. 2025]** One paper "SarcNet: A Novel AI-based Framework to Automatically Analyze and Score Sarcomere Organizations  in Fluorescently Tagged hiPSC-CMs" is accepted at [ISBI 2025](https://biomedicalimaging.org/2025/), held in Houston, Texas from April 14-17, 2025. 
 - **[Nov. 2024]** I was selected for the IEEE BIBM 2024 Student Travel Award.
 - **[Oct. 2024]** One paper "D-SarcNet: A Dual-stream Deep Learning Framework for Automatic Analysis of Sarcomere Structures in Fluorescently Labeled hiPSC-CMs" is accepted at [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024/), held in Lisbon, Portugal from Dec 3-6.
 - **[Aug. 2024]** I started a Ph.D. in Computer Science at VinUni-Illinois Smart Health Center, VinUniversity, with full-ride scholarship.
@@ -32,9 +33,10 @@ News
 - **[Nov. 2023]** I attended [MEDICA 2023](https://www.medica-tradefair.com), one of the world largest medical B2B trade fairs, held in Düsseldorf, Germany.
 - **[Jan. 2023]** I joined Smallmachines, a medical device manufacturing company based in Seoul, Korea, as a Software Engineer. My work focused on developing ML models for sepsis early diagnosis and prognosis, as well as building a website and mobile app to deploy these ML models.
 
-Preprints
+Publications
 ------
-1. **Huyen Le**, Khiet Dang, Tien Lai, Nhung Nguyen, Mai Tran, & Hieu Pham (2024). SarcNet: A Novel AI-based Framework to Automatically Analyze and Score Sarcomere Organizations in Fluorescently Tagged hiPSC-CMs. *arXiv preprint arXiv:2405.17926*, [pdf](https://arxiv.org/pdf/2405.17926)
+1. **Huyen Le**, Khiet Dang, Tien Lai, Nhung Nguyen, Mai Tran, & Hieu Pham (2025). SarcNet: A Novel AI-based Framework to Automatically Analyze and Score Sarcomere Organizations in Fluorescently Tagged hiPSC-CMs. *ISBI 2025*, [pdf](https://arxiv.org/pdf/2405.17926)
+2. **Huyen Le**, Khiet Dang, Nhung Nguyen, Mai Tran, & Hieu Pham (2024). D-SarcNet: A Dual-stream Deep Learning Framework for Automatic Analysis of Sarcomere Structures in Fluorescently Labeled hiPSC-CMs. *BIBM 2024*, [pdf](https://arxiv.org/abs/2410.14983)
 
 <!--
 Create content & metadata
