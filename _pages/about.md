@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Huyen, a first-year Ph.D. student in Computer Science at [VinUniversity](https://vinuni.edu.vn) and Research Assistant at [VinUni-Illinois Smart Health Center](https://smarthealth.vinuni.edu.vn) (VISHC), supervised by [Dr. Hieu Pham](https://huyhieupham.github.io) and [Dr. Mai Tran](https://www.belab.vn/home). My research focuses on AI in Biomedical Imaging. 
+Hi! I'm Huyen, a first-year Ph.D. student in Computer Science at [VinUniversity](https://vinuni.edu.vn) and Research Assistant at [VinUni-Illinois Smart Health Center](https://smarthealth.vinuni.edu.vn) (VISHC), supervised by. [Dr. Hieu Pham](https://huyhieupham.github.io) and [Dr. Mai Tran](https://www.belab.vn/home). My research focuses on AI in Biomedical Imaging. 
 
 I received my double-major Bachelor degree in Applied Information Engineering and International Commerce at [Yonsei University](http://www.yonsei.kr/en_sc/index.jsp) in February 2023. I was a software engineering at Smallmachines, South Korea from January 2023 to February 2024.
 
@@ -37,6 +37,11 @@ Publications
 ------
 1. **Huyen Le**, Khiet Dang, Tien Lai, Nhung Nguyen, Mai Tran, & Hieu Pham (2025). SarcNet: A Novel AI-based Framework to Automatically Analyze and Score Sarcomere Organizations in Fluorescently Tagged hiPSC-CMs. *ISBI 2025*, [pdf](https://arxiv.org/pdf/2405.17926)
 2. **Huyen Le**, Khiet Dang, Nhung Nguyen, Mai Tran, & Hieu Pham (2024). D-SarcNet: A Dual-stream Deep Learning Framework for Automatic Analysis of Sarcomere Structures in Fluorescently Labeled hiPSC-CMs. *BIBM 2024*, [pdf](https://arxiv.org/abs/2410.14983)
+
+Teaching Assistant
+------
+- **[Spring 2025]** COMP1020 - Objected Oriented Programming & Data Structure @ CECS, VinUniversity - Instructor: [Professor Sungdeok (Steve) Cha](https://scholar.google.com/citations?user=OzwNikcAAAAJ&hl=en) 
+- **[Fall 2024]** COMP3040 - Computer Vision @ CECS, VinUniversity - Instructor: [Dr. Hieu Pham](https://huyhieupham.github.io) 
 
 <!--
 Create content & metadata
